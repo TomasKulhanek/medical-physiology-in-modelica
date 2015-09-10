@@ -17,7 +17,7 @@ Analogies exists in electrical and mechanical domains, hydraulic, thermodynamic 
 <script type="text/javascript" src="dygraph-combined.js">
 </script>
 
-<script type="text/javascript" src="edit/master/dygraph-combined.js">
+<script type="text/javascript"  src="edit/master/dygraph-combined.js">
 </script>
 
 
