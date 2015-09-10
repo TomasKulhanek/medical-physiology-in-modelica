@@ -15,8 +15,11 @@ The basics of various systems can be explained using analogy between domains.
 Analogies exists in electrical and mechanical domains, hydraulic, thermodynamic and chemical domain too.
 
 <script type="text/javascript" src="dygraph-combined.js">
-
 </script>
+
+<script type="text/javascript" src="edit/master/dygraph-combined.js">
+</script>
+
 
 <div>
 <button onclick="startSim();">start</button>
