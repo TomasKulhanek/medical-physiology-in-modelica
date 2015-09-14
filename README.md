@@ -1,7 +1,7 @@
 Preface
 =======
 
-This book is being written for the people who touch the term mathematical models within their study, research or industrial interest in the field of Medical Physiology. With our findings and years of experiences we have chosen the current Modelica standard language as it seems to best capture the essence of the modeled reality currently. However, the examples presented within this book could be implemented with more or less effort in any other modeling language. However, there might be some limitation as the Modelica language can differ with features which other languages miss.
+This book is being written for the people interested in mathematical models in the field of Medical Physiology. With our findings and years of experiences we have chosen the current Modelica standard language as it seems to best capture the essence of the modeled reality currently. However, the examples presented within this book could be implemented with more or less effort in any other modeling language. However, there might be some limitation as the Modelica language can differ with features which other languages miss.
 
 While we have chosen the Modelica standard language, the details of general Modelica is covered by excelent published works by Peter Fritzson - "Principles of Object-Oriented Modeling and Simulation with Modelica 3.3: A Cyber-Physical Approach" and a free online book by Michael Tiller "Modelica by Example" available at [book.xogeny.com](http://book.xogeny.com).
 
