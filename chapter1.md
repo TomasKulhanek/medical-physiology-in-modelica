@@ -1,11 +1,16 @@
 Introduction to Modelica
 ========================
 
-Modelica language is object oriented, equation based and acausal modeling language maintained by the Modelica association {http://www.modelica.org}.
+Modelica language is object oriented, equation based and acausal modeling language maintained by the Modelica association [www.modelica.org](http://www.modelica.org).
 
 ### What can be Modelica describe
 
 Modelica can describe a system by set of mathematical equations. Currently ordinary differential equations (ODE) and differential aglebraic equations (DAE) can be expressed in modelica and a support for partial differential equation (PDE) is being developed and designed. It's not domain specific and is used by automotive, engineering industry in designing, optimizing and simulating devices and complex systems.
+
+### What tools can be used
+
+Modelica standard language has several implementation. Commercial Dymola by Dassault Systemes offers robust environment integrated with other 3D design products [www.3ds.com](http://www.3ds.com/products-services/catia/products/dymola). Another commercial tool is Wolfram System Modeler, which additionally allows integration with their another product Mathematica [www.wolfram.com/system-modeler/](http://www.wolfram.com/system-modeler/). Another commercial tool SimulationX by ITI [www.itisim.com/simulationx](http://www.itisim.com/simulationx). 
+OpenModelica is open source implementation of Modelica standard and offers compiler and editor for several platforms [www.openmodelica.org](http://www.openmodelica.org). Further model examples are tested with OpenModelica tool.
 
 ### Modelica elements
 
