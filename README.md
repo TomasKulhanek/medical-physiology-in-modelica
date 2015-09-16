@@ -22,7 +22,7 @@ We need to support several people for several months (4-6) to fully focus on qua
 
 ### Why a book of modeling medical physiology?
 
-The Modelica language and standard is a niche in an area of industry modeling and design. Within medical sciences, the models are used to formalize mathematical knowledge. Modelica is not yet widely accepted and there exists several home-grown or community-grown domain specific languages. Project members implementated the most complex model of human physiology available free at [www.physiomodel.org](http://www.physiomodel.org). The implementation is in Modelica and we believe that learning the examples in Modelica language will help to grasp the essence of the Medical Physiology in a way how it is currently understand by scientists in an understandable way.
+Modelica is not yet widely used technology for modeling biology and physiology. If yes, the advantage of some features are underutilized. Project members implementated the free Modelica library [www.physiolibrary.org](http://www.physiolibrary.org) and the most complex model of human physiology in Modelica [www.physiomodel.org](http://www.physiomodel.org). We believe that learning curve of accepting Modelica will compensate productivity and visual plausibility of the models by other domain experts.
 
 ### What will be delivered at the end of the project?
 
