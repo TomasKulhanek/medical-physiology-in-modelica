@@ -72,49 +72,6 @@ $$\sum_{i=1}^n q_i=0$$.
 The basics of various systems can be explained using analogy between domains.
 Analogies exists in electrical and mechanical domains, hydraulic, thermodynamic and chemical domain too.
 
-<script type="text/javascript" src="dygraph-combined.js">
-</script>
-
-<script type="text/javascript"  src="edit/master/dygraph-combined.js">
-</script>
-
-
-<div>
-<button onclick="startSim();">start</button>
-<button onclick="stopSim();">stop</button>
-<div id="graph1"></div>
-<script>
-     var data = [];
-
-      var t = new Date();
-      for (var i = 10; i >= 0; i--) {
-        var x = new Date(t.getTime() - i * 1000);
-        data.push([x, Math.random()]);
-      }
-
-      var g = new Dygraph(document.getElementById("graph1"), data,
-                          {
-                            drawPoints: true,
-                            showRoller: true,
-                            valueRange: [0.0, 1.2],
-                            labels: ['Time', 'Random']
-                          });
-function startSim() {
-        window.intervalId = setInterval(function() {
-        var x = new Date();  // current time
-        var y = Math.random();
-        data.push([x, y]);
-        g.updateOptions( { 'file': data } );
-        }, 1000);
-      }
-      
-      function stopSim() {
-          clearInterval(window.intervalId);
-      
-      }
-</script>
-
-</div>
 
 
 
