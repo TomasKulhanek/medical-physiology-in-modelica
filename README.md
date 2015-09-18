@@ -6,7 +6,7 @@ We have chosen the current Modelica standard language as it seems to best captur
 
 While we have chosen the Modelica standard language, the details of general Modelica is covered by excelent published works by Peter Fritzson - "Principles of Object-Oriented Modeling and Simulation with Modelica 3.3: A Cyber-Physical Approach" and a free online book by Michael Tiller "Modelica by Example" available at [book.xogeny.com](http://book.xogeny.com).
 
-The first release of this book is now trying to be supported by a crowdfunding campaign via indiegogo.
+The first release of this book is now trying to be supported by a crowdfunding campaign via Indiegogo. Draft campaign http://www.indiegogo.com/project/preview/879e9361.
 
 ### Who we are?
 
