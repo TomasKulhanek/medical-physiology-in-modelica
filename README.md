@@ -14,7 +14,7 @@ We are group of scientists, students in the multidisciplinar field of medical ph
 
 ### Why we need a support?
 Writing a book - handbook - is not generally recognized as innovative to be supported by scientific grants. 
-If we will charge the book, it will be not broadly available for everyone who is interested. The support will give us freedom to fully focus on writing the book from the collected materials we already have. Open-access gives opportunity to enhance the authors group.
+If we will charge the book, it will be not broadly available for everyone who is interested. The support will give us freedom to fully focus on writing the book from the collected materials we already have. 
 
 ### Why so big ammount of money?
 
