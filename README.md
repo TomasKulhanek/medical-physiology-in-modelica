@@ -3,7 +3,7 @@
 This book is being written for the people interested in mathematical models in the field of Medical Physiology. 
 We have chosen the current Modelica standard language as it seems to best capture the essence of the modeled reality. However, the examples presented within this book could be implemented with less or more less effort in any other modeling language, however, with limitation based on available features.
 
-While we have chosen the Modelica standard language, the details of general Modelica is covered by excelent published works by Peter Fritzson - "Principles of Object-Oriented Modeling and Simulation with Modelica 3.3: A Cyber-Physical Approach" and a free online book by Michael Tiller "Modelica by Example" available at [book.xogeny.com](http://book.xogeny.com).
+While we have chosen the Modelica standard language, the details of general Modelica is covered by excelent published works by [Peter Fritzson][pf] and a free online book by [Michael Tiller][mt] "Modelica by Example" available at [book.xogeny.com](http://book.xogeny.com).
 
 The first release of this book is now trying to be supported by a crowdfunding campaign via Indiegogo [igg.me/at/mephysmo](http://igg.me/at/mephysmo)
 
@@ -30,10 +30,14 @@ We would like to release the book under creative commons licence. So the book wi
 ### What will be time-frame of the project?
 
 Beta release is planned to be until IEEE Engineering in Biology and Medicine Conference 2016. Final release will be introduced also in Modelica conference in 2017.
+### References
+* [pf]: Peter Fritzson - "Principles of Object-Oriented Modeling and Simulation with Modelica 3.3: A Cyber-Physical Approach"
+* [mt]: Michael Tiller - "Modelica by Example
 
 
 ### Licence
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
 
 <br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
 
