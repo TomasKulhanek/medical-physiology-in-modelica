@@ -1,5 +1,4 @@
-Preface
-=======
+# Preface
 
 This book is being written for the people interested in mathematical models in the field of Medical Physiology. 
 We have chosen the current Modelica standard language as it seems to best capture the essence of the modeled reality. However, the examples presented within this book could be implemented with less or more less effort in any other modeling language, however, with limitation based on available features.
