@@ -1,5 +1,5 @@
-Introduction to Modelica
-========================
+# Introduction to Modelica
+
 
 Modelica language is object oriented, equation based and acausal modeling language maintained by the Modelica association [www.modelica.org](http://www.modelica.org).
 
