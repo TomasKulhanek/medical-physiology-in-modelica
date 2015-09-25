@@ -6,5 +6,5 @@
 * [Cardiovascular System](cardiovascular.md)
 * [Integrative](integrative.md)
 * [Biomedical Devices](biomedical_devices.md)
-* Usage of Modelica Libraries
+* [Usage of Modelica Libraries](usage_of_modelica_libraries.md)
 
