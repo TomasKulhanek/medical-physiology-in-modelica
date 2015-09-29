@@ -1,6 +1,6 @@
 {
     "pluginsConfig": {},
     "plugins": [
-        "katex"
+        "katex@1.0.0"
     ]
 }
