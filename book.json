@@ -1,3 +1,6 @@
 {
-    "pluginsConfig": {}
+    "pluginsConfig": {},
+    "plugins": [
+        "mathjax"
+    ]
 }
