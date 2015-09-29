@@ -1,1 +1,6 @@
 /* CSS for pdf */
+blockquote{
+    color:black;
+    font-size:0.9em;
+    border-left:0;
+}
