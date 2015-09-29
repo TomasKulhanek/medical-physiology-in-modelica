@@ -3,9 +3,11 @@
 This book is being written for the people interested in mathematical models in the field of Medical Physiology. 
 We have chosen the current Modelica standard language as it seems to best capture the essence of the modeled reality. However, the examples presented within this book could be implemented with less or more less effort in any other modeling language, however, with limitation based on available features.
 
-While we have chosen the Modelica standard language, the details of general Modelica is covered by excelent published works by [Peter Fritzson][pf] and a free online book by [Michael Tiller][mt] "Modelica by Example" available at [book.xogeny.com](http://book.xogeny.com).
-
 The first release of this book is now trying to be supported by a crowdfunding campaign via Indiegogo [igg.me/at/mephysmo](http://igg.me/at/mephysmo)
+
+While we have chosen the Modelica standard language, the details of general Modelica is covered by excelent published works by Peter Fritzson[^1] and a free online book by Michael Tiller[^2].
+
+
 
 ### Who we are?
 
@@ -31,8 +33,8 @@ We would like to release the book under creative commons licence. So the book wi
 
 Beta release is planned to be until IEEE Engineering in Biology and Medicine Conference 2016. Final release will be introduced also in Modelica conference in 2017.
 ### References
-* [pf]: Peter Fritzson - "Principles of Object-Oriented Modeling and Simulation with Modelica 3.3: A Cyber-Physical Approach"
-* [mt]: Michael Tiller - "Modelica by Example
+* [^1]: Peter Fritzson - "Principles of Object-Oriented Modeling and Simulation with Modelica 3.3: A Cyber-Physical Approach"
+* [^2]: Michael Tiller - "Modelica by Example", [book.xogeny.com](http://book.xogeny.com)
 
 
 ### Licence
