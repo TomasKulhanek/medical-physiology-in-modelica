@@ -7,8 +7,6 @@ The first release of this book is now trying to be supported by a crowdfunding c
 
 While we have chosen the Modelica standard language, the details of general Modelica is covered by excelent published works by Peter Fritzson[^1] and a free online book by Michael Tiller[^2].
 
-
-
 ### Who we are?
 
 We are group of scientists, students in the multidisciplinar field of medical physiology, computer science, numerical mathematics, computer designers. Among our duties is to teach students of biomedical engineering the modeling and simulation and to design and develop innovative approach toward Medical Physiology.
