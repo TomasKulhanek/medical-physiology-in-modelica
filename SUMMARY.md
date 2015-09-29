@@ -7,5 +7,4 @@
 * [Cardiovascular System](cardiovascular.md)
    * [Hemodynamics](hemodynamics.md)
 * [Integrative](integrative.md)
-* [Biomedical Devices](biomedical_devices.md)
 
