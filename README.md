@@ -31,8 +31,8 @@ We would like to release the book under creative commons licence. So the book wi
 
 Beta release is planned to be until IEEE Engineering in Biology and Medicine Conference 2016. Final release will be introduced also in Modelica conference in 2017.
 ### References
-* [^1]: Peter Fritzson - "Principles of Object-Oriented Modeling and Simulation with Modelica 3.3: A Cyber-Physical Approach"
-* [^2]: Michael Tiller - "Modelica by Example", [book.xogeny.com](http://book.xogeny.com)
+[^1]: Peter Fritzson - "Principles of Object-Oriented Modeling and Simulation with Modelica 3.3: A Cyber-Physical Approach"
+[^2]: Michael Tiller - "Modelica by Example", [book.xogeny.com](http://book.xogeny.com)
 
 
 ### Licence
