@@ -10,6 +10,7 @@ While we have chosen the Modelica standard language, the details of general Mode
 ### Who we are?
 
 We are group of scientists, students in the multidisciplinar field of medical physiology, computer science, numerical mathematics, computer designers. Among our duties is to teach students of biomedical engineering the modeling and simulation and to design and develop innovative approach toward Medical Physiology.
+Among others, the authors of this book are developing free libraries for Modelica language [Physiolibrary](http://www.physiolibrary.org) (1st library award at Modelica conference 2014) and [Chemical](https://github.com/MarekMatejak/Chemical)(1st library award at Modelica conference 2015). 
 
 ### Why we need a support?
 Writing a book - handbook - is not generally recognized as innovative to be supported by scientific grants. 
@@ -25,7 +26,8 @@ Modelica is not yet widely used technology for modeling biology and physiology. 
 
 ### What will be delivered at the end of the project?
 
-We would like to release the book under creative commons licence. So the book will be available free of charge to anybody. We would like to release PDF, ebook and printed version of the book as well, but this will need additional costs, so we do not promise that the additional form of the book will be free.
+We would like to release the book under creative commons licence. So the book will be available free of charge to anybody. We would like to release PDF, ebook and printed version of the book as well, but this will need additional costs, so we do not promise that the additional form of the book will be free. The book will contain many examples, which will encourage us to update and enhance the free libraries  [Physiolibrary](http://www.physiolibrary.org) and [Chemical](https://github.com/MarekMatejak/Chemical) too.
+
 
 ### What will be time-frame of the project?
 
