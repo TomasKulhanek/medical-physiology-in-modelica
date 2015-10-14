@@ -31,14 +31,10 @@ end ArteriesAndVeins
 ### Equation based
 Modelica is *equation based*, this means that the model can be expressed using equations instead of assignment statements. Modelica tool will decide which variable is input and output upon compilation.
 ``````
-model Resistance //class (model) definition
-  Real pa,pv; //variable of pressure
-  parameter Real R; //parameter of resistance
-  Real qa,qv; //variable of flow rate
-equations
+...
   qv = R* (p2-p1);
   qa = - qv;
-end ArteriesAndVeins
+...
 ``````
 
 ### Object-oriented
@@ -53,11 +49,7 @@ model ArteriesVeins
   Arteries a;
   Veins v;
   Resistance R;
-equation
-  R.pa = a.p;
-  R.qa = -a.q;
-  R.pv = v.p;
-  R.qv = -v.q;
+...
 end ArteriesVeins;
 ```
 
@@ -71,6 +63,8 @@ $$\sum_{i=1}^n q_i=0$$.
 
 The basics of various systems can be explained using analogy between domains.
 Analogies exists in electrical and mechanical domains, hydraulic, thermodynamic and chemical domain too.
+
+### Graphical
 
 
 
