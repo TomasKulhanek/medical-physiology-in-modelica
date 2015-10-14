@@ -16,7 +16,7 @@ OpenModelica is open source implementation of Modelica standard and offers compi
 
 As Modelica is declarative, it doesn't depend the order of elements in which are defined. The basic elements are classes (models), variables, parameters and equations. 
 
-```
+```modelica
 model Arteries //class (model) definition
   Real p; //variable of pressure
   Real q; //variable of flow
@@ -26,7 +26,7 @@ equations
   p = V/C;  // algebraic equation p =V/C
   der(V) = q; //differential equation 
 end ArteriesAndVeins
-```
+``````
 
 ### Equation based
 Modelica is *equation based*, this means that the model can be expressed using equations instead of assignment statements. Modelica tool will decide which variable is input and output upon compilation.
@@ -56,8 +56,7 @@ end ArteriesVeins;
 ### Acausal
 
 *Acausal* means that the model composed of several submodel do not need explicitly declare what is input and output. Acausal connector is special purpose class to define variables of the model shared with other models or classes. Connecting two or more components via acausal connector will generate analogy of Kirchhoff's law equations, which ensure equality of all "non-flow" variables, e.g. pressures $$p$$ in connectors 
-$$p_1=p_2=\ldots =p_n
-$$
+$$p_1=p_2=\ldots =p_n$$
 and zero sum of all "flow" variables e.g.flowrates $$q_i$$ in connectors
 $$\sum_{i=1}^n q_i=0$$.
 
@@ -66,6 +65,9 @@ Analogies exists in electrical and mechanical domains, hydraulic, thermodynamic 
 
 ### Graphical
 
+*Graphical* means that the models can be defined in diagram from instead of textual form. Therefore a 
+the above model of Arteries and Veins can look as follows. Each icon represents model, each connection (black line) represents equation between connected models.
+![](twoballoon.png)
 
 
 
