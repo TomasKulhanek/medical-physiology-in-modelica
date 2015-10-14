@@ -16,7 +16,7 @@ OpenModelica is open source implementation of Modelica standard and offers compi
 
 As Modelica is declarative, it doesn't depend the order of elements in which are defined. The basic elements are classes (models), variables, parameters and equations. 
 
-```modelica
+```
 model Arteries //class (model) definition
   Real p; //variable of pressure
   Real q; //variable of flow
@@ -26,7 +26,7 @@ equations
   p = V/C;  // algebraic equation p =V/C
   der(V) = q; //differential equation 
 end ArteriesAndVeins
-``````
+```
 
 ### Equation based
 Modelica is *equation based*, this means that the model can be expressed using equations instead of assignment statements. Modelica tool will decide which variable is input and output upon compilation.
@@ -40,7 +40,7 @@ Modelica is *equation based*, this means that the model can be expressed using e
 ### Object-oriented
 *Object orientation* means that model is defined as a class, which can be instantiated. Each instance share type and differ in parameters and the place where it is used. Inheritance and some sort of polymorphism is possible.
 
-```modelica
+```
 model Veins
   extends Arteries; //inherits all variables,parameters and equations from Arteries
 end Veins;
