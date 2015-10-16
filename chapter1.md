@@ -99,10 +99,16 @@ connector HydraulicPort
   flow Real q "Volume flow";
 end HydraulicPort;
 ```
+The model of arteries and veins and systemic resistance can be modeled in diagram form as follows:
 
+![](twoballoon.png)
 
+Using appropriate acausal connectors for physical domain modeling can lead that the diagram view of the model follows conceptual and structural information of the model, which are hidden or lost when using other "block-oriented" modeling technologies. 
 
+### References
 
+* J. Kofránek, M. Mateják, P. Privitzer, M. Tribula, Causal or acausal modeling: labour for humans or labour for machines, Tech. Comput. Prague. (2008) 1–16.
+* T. Kulhanek, F. Jezek, M. Matejak, J. Silar, J. Kofranek, Experiences in Teaching of Modeling and Simulation with Emphasize on Equation-based and Acausal Modeling Techniques., in: IEEE EMBC 2015, Milano, 2015.
 
 
 
