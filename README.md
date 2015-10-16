@@ -2,12 +2,11 @@
 
 This book is being written for the people interested in mathematical models in the field of Medical Physiology. 
 
-But we need suport relase this book at least as free online version. Please suport us via crowdfunding campaign at Indiegogo [igg.me/at/mephysmo](http://igg.me/at/mephysmo)
-{% youtube %}https://www.youtube.com/watch?v=9bZkp7q19f0{% endyoutube %}
+But we need suport relase this book at least as free online version. Please support us via crowdfunding campaign at Indiegogo [igg.me/at/mephysmo](http://igg.me/at/mephysmo)
+
+{% youtube %}https://www.youtube.com/watch?v=bQP--AXRJ-Q{% endyoutube %}
 
 We have chosen the current Modelica standard language as it seems to best capture the essence of the modeled reality. However, the examples presented within this book could be implemented with less or more less effort in any other modeling language, however, with limitation based on available features.
-
-
 
 While we have chosen the Modelica standard language, the details of general Modelica is covered by excelent published works by Peter Fritzson[^1] and a free online book by Michael Tiller[^2].
 
