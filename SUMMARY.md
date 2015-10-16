@@ -7,6 +7,6 @@
 * [Cardiovascular System](cardiovascular.md)
    * [Hemodynamics](hemodynamics.md)
 * [Hormones](hormones.md)
-* Water balance
+* [Water balance](water_balance.md)
 * [Integrative](integrative.md)
 
