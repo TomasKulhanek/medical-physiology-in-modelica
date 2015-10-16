@@ -63,7 +63,11 @@ end ArteriesVeins;
 
 ### Graphical
 
-*Graphical* means that the models can be defined in diagram form instead of textual form. The model can be presented as an icon. Icon may contains special purpose class *connector* which allows internal variables to be presented outside.
+*Graphical* means that the models can be defined also in diagram form. Most Modelica tools allows to switch between "icon" view, diagram view, textual view.
+
+In Dymola ![In dymola](dymolaicons.png) or in OMEdit ![](omediticon.png) or in Wolfram System Modeler ![](wolframicons2.png) 
+
+The Icon view contain graphics which presents the model on another models. Icon can visualize special purpose class -- *connector* which allows internal variables to be presented outside.
 
 ![](gitbookicon.png)
 
@@ -81,7 +85,7 @@ SumOfVolume.u2 := Veins.volume;
 
 ### Acausal
 
-*Acausal* means that the model composed of several submodels do not need explicitly declare what is input and output. Acausal connector is special purpose connector to define define "flow" and "non-flow" variables of the model shared with other models or classes. Connecting two or more components via acausal connector will generate analogy of Kirchhoff's law equations, which ensure equality of all "non-flow" variables, e.g. pressures $$p$$ in connectors 
+*Acausal* means that the model composed of several submodels do not explicitly define causality - what is input and output. Acausal connector is special purpose connector to define "flow" and "non-flow" variables of the model shared with other models or classes. Connecting two or more components via acausal connector will generate analogy of Kirchhoff's law equations, which ensure equality of all "non-flow" variables, e.g. pressures $$p$$ in connectors 
 
 $$p_1=p_2=\ldots =p_n$$
 
@@ -89,8 +93,7 @@ and zero sum of all "flow" variables e.g.flowrates $$q_i$$ in connectors
 
 $$\sum_{i=1}^n q_i=0$$.
 
-
-The basics of various systems can be explained using analogy between domains. Analogies exists in electrical and mechanical domains, hydraulic, thermodynamic and chemical domain too. In examples above the acausal connector of hydraulic domain is defined:
+And Modelica tool will in most cases solve the causality based on the composed system. The basics of various systems can be explained using analogy between domains thus appropriate acausal connector seems similar in electrical and mechanical domains, hydraulic, thermodynamic and chemical domain too. In examples above the acausal connector of hydraulic domain is defined:
 
 ```
 connector HydraulicPort 
@@ -103,7 +106,14 @@ The model of arteries and veins and systemic resistance can be modeled in diagra
 
 ![](twoballoon.png)
 
-Using appropriate acausal connectors for physical domain modeling can lead that the diagram view of the model follows conceptual and structural information of the model, which are hidden or lost when using other "block-oriented" modeling technologies. 
+Using appropriate acausal connectors for physical domain modeling can lead that the diagram view of the model follows conceptual and structural information of the model, which are hidden or lost when using other "block-oriented" modeling technologies which needs additional causality solution. 
+
+### Tools
+
+To start with modeling, important are tools. Within this book, the examples will be shown and readers are encouraged to use open-source [OpenModelica tools with editor OMEdit](http://www.openmodelica.org). Further simulation methods were used with integration with Python language via another open-source platform [Jmodelica](http://www.jmodelica.org/). 
+
+The authors developed the libraries and examples in commercial tools [Dymola](http://www.modelon.com/products/dymola/) and particularly in [Wolfram System Modeler](http://www.wolfram.com/system-modeler/). Some libraries and examples were tested also in commercial tool [Simulation X](https://www.simulationx.com/). 
+
 
 ### References
 
