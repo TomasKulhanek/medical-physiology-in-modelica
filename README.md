@@ -4,7 +4,7 @@ This book is being written for the people interested in mathematical models in t
 
 But we need suport relase this book at least as free online version. Please support us via crowdfunding campaign at Indiegogo [igg.me/at/mephysmo](http://igg.me/at/mephysmo)
 
-{% youtube %}https://www.youtube.com/watch?v=bQP--AXRJ-Q{% endyoutube %}
+{%youtube%}bQP--AXRJ-Q{%endyoutube%}
 
 We have chosen the current Modelica standard language as it seems to best capture the essence of the modeled reality. However, the examples presented within this book could be implemented with less or more less effort in any other modeling language, however, with limitation based on available features.
 
