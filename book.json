@@ -1,6 +1,7 @@
 {
     "pluginsConfig": {},
     "plugins": [
-        "katex@0.2.1"
+        "katex@0.2.1",
+        "youtube"
     ]
 }
