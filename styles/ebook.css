@@ -1,3 +1,16 @@
 /* CSS for ebook */
-.page .section h1{display:none} /* double h1 workaround */
-body{font-family:Palatino;font-size:14px}
+.page .section h1:first-child{display:none} /* double h1 workaround */
+.page .section{
+    font-size:16px;
+    font-family:serif;
+}
+
+p,
+blockquote,
+ul,
+ol,
+dl,
+table,
+pre {
+  text-align: justify;
+}
