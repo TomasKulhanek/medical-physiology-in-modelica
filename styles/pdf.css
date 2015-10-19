@@ -1,6 +1,3 @@
 /* CSS for pdf */
-blockquote{
-    color:black;
-    font-size:0.9em;
-    border-left:0;
-}
+.page .section h1{display:none} /* double h1 workaround */
+body{font-family:Palatino;font-size:14px}
