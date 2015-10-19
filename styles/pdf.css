@@ -1,3 +1,4 @@
 /* CSS for pdf */
+
 .page .section h1{display:none} /* double h1 workaround */
-body{font-family:Palatino;font-size:14px}
+book{font-family:Palatino;font-size:14px}
