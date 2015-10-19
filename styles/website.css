@@ -6,5 +6,6 @@
 	border-left:0px solid #ddd
 }
 
-sup:before sup:after { content: "\0020"; display: block; height: 0; overflow: hidden; }
-sup:after {clear:both}
+sup a:after {
+    content: " [" attr(href) "]";
+}
