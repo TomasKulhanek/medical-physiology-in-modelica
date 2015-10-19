@@ -2,3 +2,12 @@
 
 .page .section h1{display:none} /* double h1 workaround */
 book{font-family:Palatino;font-size:14px}
+p,
+blockquote,
+ul,
+ol,
+dl,
+table,
+pre {
+  text-align: justify;
+}
