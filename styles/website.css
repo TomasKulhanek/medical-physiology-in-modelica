@@ -1,10 +1,10 @@
 /* CSS for website */
-.custom-link {
-    display:none;
-}
 
 .book blockquote{
     color:black;
     font-size:0.9em;
     border-left:0;
 }
+
+sup:before sup:after { content: "\0020"; display: block; height: 0; overflow: hidden; }
+sup:after {clear:both}
