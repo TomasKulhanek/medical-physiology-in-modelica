@@ -1,9 +1,9 @@
 /* CSS for website */
 
-.book blockquote{
-    color:black;
-    font-size:0.9em;
-    border-left:0;
+.book .book-body .page-wrapper .page-inner section.normal blockquote {
+	padding:0 15px;
+	color:#777;
+	border-left:0px solid #ddd
 }
 
 sup:before sup:after { content: "\0020"; display: block; height: 0; overflow: hidden; }
