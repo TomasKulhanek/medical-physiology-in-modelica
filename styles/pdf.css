@@ -3,6 +3,9 @@
 .page .section h1{display:none} /* double h1 workaround */
 book{font-family:Palatino;font-size:14px}
 body{font-family:Palatino;font-size:14px}
+.page{font-family:Palatino;font-size:14px}
+.page h1:first{display:none}
+.page h2{display:none}
 p,
 blockquote,
 ul,
@@ -11,5 +14,5 @@ dl,
 table,
 pre {
   text-align: justify;
-  font-family:Palatino;font-size:14px
+  font-family:serif;
 }
