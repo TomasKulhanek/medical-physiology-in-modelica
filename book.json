@@ -3,5 +3,9 @@
     "plugins": [
         "katex",
         "youtubex"
-    ]
+    ],
+    "pdf":{
+        "fontSize":16,
+        "fontFamily":"Palatino"
+    }
 }
