@@ -5,7 +5,6 @@
         "youtubex"
     ],
     "pdf":{
-        "fontSize":16,
-        "fontFamily":"Palatino"
+        "fontSize":16
     }
 }
