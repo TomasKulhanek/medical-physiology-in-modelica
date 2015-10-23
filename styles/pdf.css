@@ -2,7 +2,7 @@
 
 .page .section h1:first-child{display:none} /* double h1 workaround */
 .page .section{
-    font-size:18px;
+    font-size:12px;
 }
 
 p,
