@@ -1,7 +1,7 @@
 # Summary
 
 * [Preface](README.md)
-* [Overview of Modeling Methods Used in Medical Physiology](overview_of_modeling_methods_used_in_medical_physiology.md)
+* [Overview of Modeling Methods](overview_of_modeling_methods_used_in_medical_physiology.md)
 * [Introduction to Modelica](chapter1.md)
 * [Usage of Modelica Libraries](usage_of_modelica_libraries.md)
 * [Acidbase Balance](acidbase.md)
