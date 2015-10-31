@@ -1,6 +1,6 @@
 # Preface
 
-This book is being written for the people interested in mathematical models in the field of Medical Physiology. 
+This book is being written for the students, researchers and other people interested in mathematical models  of medical physiology. 
 
 We would like to make this book free, but we need to suport the first relase of this book. Please help us via crowdfunding campaign at Indiegogo [igg.me/at/mephysmo](http://igg.me/at/mephysmo)
 
