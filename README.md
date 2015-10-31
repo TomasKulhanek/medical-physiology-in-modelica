@@ -2,13 +2,13 @@
 
 This book is being written for the people interested in mathematical models in the field of Medical Physiology. 
 
-But we need suport relase this book at least as free online version. Please support us via crowdfunding campaign at Indiegogo [igg.me/at/mephysmo](http://igg.me/at/mephysmo)
+We would like to make this book free, but we need to suport the first relase of this book. Please help us via crowdfunding campaign at Indiegogo [igg.me/at/mephysmo](http://igg.me/at/mephysmo)
 
 {%youtube%}bQP--AXRJ-Q{%endyoutube%}
 
-We have chosen the current Modelica standard language as it seems to best capture the essence of the modeled reality. However, the examples presented within this book could be implemented with less or more less effort in any other modeling language, however, with limitation based on available features.
+For formalizing medical physiology we have chosen the Modelica standard language as it is open, provides some key features (object oriented, equation-based, acausal) which seems to best capture the essence of the modeled reality. However, the examples presented within this book could be implemented with less or more effort in other modeling language. 
 
-While we have chosen the Modelica standard language, the details of general Modelica is covered by excelent published works by Peter Fritzson[^1] and a free online book by Michael Tiller[^2].
+While we have chosen the Modelica standard language, the details of general Modelica is covered by excelent published works by Peter Fritzson[^1] and a free online book by Michael Tiller[^2]. This book focus on examples related to medical physiology.
 
 ### Who we are?
 
@@ -16,16 +16,16 @@ We are group of scientists, students in the multidisciplinar field of medical ph
 Among others, the authors of this book are developing free libraries for Modelica language [Physiolibrary](http://www.physiolibrary.org) (1st library award at Modelica conference 2014) and [Chemical](https://github.com/MarekMatejak/Chemical)(1st library award at Modelica conference 2015). 
 
 ### Why we need a support?
-Writing a book - handbook - is not generally recognized as innovative to be supported by scientific grants. 
-If we will charge the book, it will be not broadly available for everyone who is interested. The support will give us freedom to fully focus on writing the book from the collected materials we already have. 
+If we will charge the book, it will be not broadly available for everyone who is interested. The support will give us freedom to fully focus on writing the book from the collected materials we already have. Prior to some innovative grant, we would like to try this way to support the creation of this book.
 
 ### Why so big ammount of money?
 
-We need to support several people for several months (4-6) to fully focus on qualitative material preparation.  Otherwise we will be asked to write unrelated articles to scientific journal with impact factor, or to work for other scientific groups who fortunately has some scientific grants, but not space for writing a book.
+We need to support several people for several months (4-6) to fully focus on qualitative material preparation.
+Writing book, writing/revieweing examples, improving free Modelica libraries (  [Physiolibrary](http://www.physiolibrary.org), [Chemical](https://github.com/MarekMatejak/Chemical)).
 
 ### Why a book of modeling medical physiology?
 
-Modelica is not yet widely used technology for modeling biology and physiology. If yes, the advantage of some features are underutilized. Project members implementated the free Modelica library [www.physiolibrary.org](http://www.physiolibrary.org) and the most complex model of human physiology in Modelica [www.physiomodel.org](http://www.physiomodel.org). We believe that learning curve of accepting Modelica will compensate productivity and visual plausibility of the models by other domain experts.
+Modelica is not yet widely used technology for modeling biology and physiology. In some cases the Modelica is not us ed with it's strong features. We believe that learning curve of accepting Modelica will compensate productivity and visual plausibility of the models by other domain experts.
 
 ### What will be delivered at the end of the project?
 
