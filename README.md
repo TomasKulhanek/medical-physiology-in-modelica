@@ -1,4 +1,3 @@
-![](cover.svg)
 # Preface
 
 This book is being written for the students, researchers and other people interested in mathematical models  of medical physiology. 
