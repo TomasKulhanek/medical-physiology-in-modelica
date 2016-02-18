@@ -1,19 +1,22 @@
 # Preface
 
-This book is being written for the students, researchers and other people interested in mathematical models  of medical physiology. 
+This book is arising continuously. We write it based on our experience and research for the students, researchers and other people interested in mathematical models  of medical physiology. 
 
 
-We would like to make this book free, but we need to suport the first relase of this book. Please help us via crowdfunding campaign at Indiegogo [igg.me/at/mephysmo](http://igg.me/at/mephysmo)
+We would like to make this book free, but we need to support the first release of this book. Please help us to achieve our goal e.g. via crowdfunding campaign 
+* via Indiegogo [igg.me/at/mephysmo](http://igg.me/at/mephysmo)
+* via BitcoinUtopia
+[www.bitcoinutopia.com/2015/12/modelica/](http://www.bitcoinutopia.com/2015/12/modelica/)
 
 {%youtube%}bQP--AXRJ-Q{%endyoutube%}
 
-For formalizing medical physiology we have chosen the Modelica standard language as it is open, provides some key features (object oriented, equation-based, acausal) which seems to best capture the essence of the modeled reality. However, the examples presented within this book could be implemented with less or more effort in other modeling language. 
+For formalizing medical physiology we have chosen the Modelica standard language as it is open, provides some key features (object oriented, equation-based, acausal) which seems to best capture the essence of the modeled reality and the standard is open and supported by several tools, so the models can be exported and simulated anywhere. 
 
-While we have chosen the Modelica standard language, the details of general Modelica is covered by excelent published works by Peter Fritzson[^1] and a free online book by Michael Tiller[^2]. This book focus on examples related to medical physiology.
+While we have chosen the Modelica standard language, the details of general Modelica is covered by excellent published works by Peter Fritzson[^1] and a free online book by Michael Tiller[^2]. This book focus on examples related to medical physiology.
 
 ### Who we are?
 
-We are group of scientists, students in the multidisciplinar field of medical physiology, computer science, numerical mathematics, computer designers. Among our duties is to teach students of biomedical engineering the modeling and simulation and to design and develop innovative approach toward Medical Physiology.
+We are group of scientists, students in the multidisciplinary field of medical physiology, computer science, numerical mathematics, computer designers. Among our duties is to teach students of biomedical engineering the modeling and simulation and to design and develop innovative approach toward Medical Physiology.
 Among others, the authors of this book are developing free libraries for Modelica language [Physiolibrary](http://www.physiolibrary.org) (1st library award at Modelica conference 2014) and [Chemical](https://github.com/MarekMatejak/Chemical)(1st library award at Modelica conference 2015). 
 
 ### Why we need a support?
