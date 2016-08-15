@@ -1,4 +1,6 @@
 {
+    "gitbook": "2.4.3",
+    "title": "Medical Physiology in Modelica",
     "pluginsConfig": {},
     "plugins": [
         "katex",
