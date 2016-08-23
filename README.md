@@ -1,8 +1,6 @@
 # Preface
 
-This book is being written continuously. 
-
-As this book is free, we need to support the first release of this book via various channels, 
+This book is free, we need to support the first release of this book via various channels, 
 we used in the past the following:
 * via Indiegogo [igg.me/at/mephysmo](http://igg.me/at/mephysmo)
 * via BitcoinUtopia [www.bitcoinutopia.com/2015/12/modelica/](http://www.bitcoinutopia.com/2015/12/modelica/)
@@ -10,10 +8,9 @@ Thank you for the supporters.
 
 {%youtube%}bQP--AXRJ-Q{%endyoutube%}
 
-The content is based on our experience of teaching the modeling and simulation courses for students of biomedical engineering. We had made several decisions, which influense the methodology used further.
-First decision is a modeling language and style. we had chosen the Modelica standard language as it is open, provides key features such as object oriented, equation-based, acausal. 
-Object orientation allows to maintain complex models and still preserve basic understandability. 
-The equation-based and acausal feature allows to focus on physical reality rather than on determining what is input and output in different cases and how to determine causality.
+This book is based on the materials used for research and education. The methodology used in this book is used to build and maintain complex model of human physiology www.physiomodel.org. The methodology is also used in training courses of modeling and simulation for students of biomedical engineering.
+
+We had chosen the Modelica standard language. It is open, standardized, well maintained by academic and industry and provides key features such as object oriented, equation-based, acausality. The Acausality feature seems to be important for complex models, which helps to keep the understandability on higher level model structure and keep exactness on the lower level of the modeled reality.
 
 The details of general Modelica is covered by excellent published works by Peter Fritzson[^1] and a free online book by Michael Tiller[^2]. This book focus on features which we had faced during modeling selected areas of medical physiology.
 
