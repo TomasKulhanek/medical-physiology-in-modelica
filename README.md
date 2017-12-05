@@ -1,7 +1,6 @@
 # Preface
 
-This book is free, we need to support the first release of this book via various channels, 
-we used in the past the following:
+This book is free. We need to support continuous development of this book via various channels, we used in the past the following:
 * via Indiegogo [igg.me/at/mephysmo](http://igg.me/at/mephysmo)
 * via BitcoinUtopia [www.bitcoinutopia.com/2015/12/modelica/](http://www.bitcoinutopia.com/2015/12/modelica/)
 Thank you for the supporters.
@@ -16,7 +15,7 @@ The details of general Modelica is covered by excellent published works by Peter
 
 ### Who we are?
 
-We are group of researchers, current or former students from various fields - medical physiology, computer science, numerical mathematics, graphic designers. Among others, the authors of this book are developing free libraries for Modelica language [Physiolibrary](http://www.physiolibrary.org) (1st library award at Modelica conference 2014) and [Chemical](https://github.com/MarekMatejak/Chemical)(1st library award at Modelica conference 2015). 
+We are group of researchers, former students from various fields - medical physiology, computer science, numerical mathematics, graphic designers. Authors of this book develop and maintain free libraries for Modelica language [Physiolibrary](http://www.physiolibrary.org) (1st library award at Modelica conference 2014) and [Chemical](https://github.com/MarekMatejak/Chemical)(1st library award at Modelica conference 2015). 
 
 ### Why we need a support?
 If we will charge the book, it will be not broadly available for everyone who is interested. The support will give us freedom to fully focus on writing the book from the collected materials we already have. 
@@ -27,7 +26,7 @@ We need to support several people for several months (4-6) to fully focus on qua
 
 ### Why a book of modeling medical physiology?
 
-Modeling medical physiology is covered by another books, which however presumes strong mathematical background. Models expressed in Modelica can keep the mathematical exactness however still be understandable for other domain experts.
+Mathematical modeling as well as modeling in Modelica language is covered by great books in references. Modeling medical physiology is covered by another sort of books, which however, presumes strong background in mathematical and physical sciences. Models expressed in Modelica can keep the mathematical exactness however still be understandable for other domain experts.
 
 ### What will be delivered at the end of the project?
 
