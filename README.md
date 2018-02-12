@@ -1,9 +1,10 @@
 # Preface
 
-This book is free. We need to support continuous development of this book via various channels, we used in the past the following:
+This book is in development. Only first chapters are finished while the others need a support for development. We used the following channels in the past to support writing this book:
 * via Indiegogo [igg.me/at/mephysmo](http://igg.me/at/mephysmo)
 * via BitcoinUtopia [www.bitcoinutopia.com/2015/12/modelica/](http://www.bitcoinutopia.com/2015/12/modelica/)
-Thank you for the supporters.
+
+(Feb 2018 Update) Thank you for all the supporters. Unfortunately, not enough resources were collected thus the writing of this book is currently stalled.
 
 {%youtube%}bQP--AXRJ-Q{%endyoutube%}
 
